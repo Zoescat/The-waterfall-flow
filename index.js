@@ -56,64 +56,64 @@ window.onload = function () {
     window.onscroll = function () {
         if (window.pageYOffset + window.innerHeight > getMin(arr).minV) {
             var json = [{
-                    "src": "./images/p_000.jpg"
+                    "src": "./images/P_000.jpg"
                 },
                 {
-                    "src": "./images/p_001.jpg"
+                    "src": "./images/P_001.jpg"
                 },
                 {
-                    "src": "./images/p_002.jpg"
+                    "src": "./images/P_002.jpg"
                 },
                 {
-                    "src": "./images/p_003.jpg"
+                    "src": "./images/P_003.jpg"
                 },
                 {
-                    "src": "./images/p_004.jpg"
+                    "src": "./images/P_004.jpg"
                 },
                 {
-                    "src": "./images/p_005.jpg"
+                    "src": "./images/P_005.jpg"
                 },
                 {
-                    "src": "./images/p_006.jpg"
+                    "src": "./images/P_006.jpg"
                 },
                 {
-                    "src": "./images/p_007.jpg"
+                    "src": "./images/P_007.jpg"
                 },
                 {
-                    "src": "./images/p_008.jpg"
+                    "src": "./images/P_008.jpg"
                 },
                 {
-                    "src": "./images/p_009.jpg"
+                    "src": "./images/P_009.jpg"
                 },
                 {
-                    "src": "./images/p_010.jpg"
+                    "src": "./images/P_010.jpg"
                 },
                 {
-                    "src": "./images/p_011.jpg"
+                    "src": "./images/P_011.jpg"
                 },
                 {
-                    "src": "./images/p_012.jpg"
+                    "src": "./images/P_012.jpg"
                 },
                 {
-                    "src": "./images/p_013.jpg"
+                    "src": "./images/P_013.jpg"
                 },
                 {
-                    "src": "./images/p_014.jpg"
+                    "src": "./images/P_014.jpg"
                 },
                 {
-                    "src": "./images/p_015.jpg"
+                    "src": "./images/P_015.jpg"
                 },
                 {
-                    "src": "./images/p_016.jpg"
+                    "src": "./images/P_016.jpg"
                 },
                 {
-                    "src": "./images/p_017.jpg"
+                    "src": "./images/P_017.jpg"
                 },
                 {
-                    "src": "./images/p_018.jpg"
+                    "src": "./images/P_018.jpg"
                 },
                 {
-                    "src": "./images/p_019.jpg"
+                    "src": "./images/P_019.jpg"
                 }
             ];
             for (var i = 0; i < json.length; i++) {
